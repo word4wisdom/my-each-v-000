@@ -16,7 +16,7 @@ end
   #end
  
   array
-end
+#end
 
 #mechanism
 # A. accept an argument 
