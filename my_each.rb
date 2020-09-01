@@ -5,8 +5,8 @@ while i < array.length
   i = i + 1
 end
  words
- end
 end
+
 #def hello_t(array)
  # i = 0
  
