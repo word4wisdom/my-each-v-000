@@ -15,7 +15,7 @@ end
   #  i = i + 1
   #end
  
-  array
+  #array
 #end
 
 #mechanism
